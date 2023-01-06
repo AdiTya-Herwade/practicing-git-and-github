@@ -3,4 +3,7 @@ initialised the git
 
 preparing for 1st commit
 
+emptying the repo and pushing to github
+
+
 

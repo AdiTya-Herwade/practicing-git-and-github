@@ -1,6 +1,0 @@
-
-learning git with practical
-
-
-even minor changes to commited file can be tracked..
-and we can update and commit the file using the same "git add" command
